@@ -22,10 +22,8 @@ h1 {
 }
 
 body {
-  margin: 0;
   color: #325050;
-  background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)), url("../../media/examples/lizard.png");
-  background-color: blue(50, 33%, 25%);
+  background-color: lightblue;
   font-family: cursive;
   font-size: 70%;
 }
